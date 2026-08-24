@@ -7,3 +7,4 @@ dist/
 server/prisma/*.db
 server/prisma/*.db-journal
 .DS_Store
+.vercel
