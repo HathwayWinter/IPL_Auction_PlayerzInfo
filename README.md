@@ -65,11 +65,13 @@ https://github.com/HathwayWinter/IPL_Auction_PlayerzInfo
 
 ## Live Application URL
 
-Pilot application URL when running locally:
+Public Vercel deployment:
+
+https://ipl-auction-playerzinfo.vercel.app
+
+For local development, use:
 
 http://127.0.0.1:5173/
-
-There is not yet a publicly hosted production URL. The pilot is currently intended to run locally.
 
 ## Build for Production
 
