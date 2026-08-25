@@ -23,6 +23,19 @@ This is a pilot/demo application. It includes seeded IPL-style auction data and 
 - Local browser persistence for quick demos
 - Responsive layout for desktop and mobile
 
+## Access Modes
+
+### Admin Login
+
+Admin users can add, edit, remove, and delete players, update auction status, and finalize sales.
+
+- Username: `Admin`
+- Password: `Admin`
+
+### End User View
+
+End users can browse the dashboard, player pool, auction desk, and team insights in read-only mode. Admin navigation and management controls are hidden.
+
 ## Technology Used
 
 - React
